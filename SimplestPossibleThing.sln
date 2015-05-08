@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCQRS", "SimpleCQRS\SimpleCQRS.csproj", "{DAFD2A8A-D6B0-4433-8DDF-B98460C64EC6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRSGui", "CQRSGui\CQRSGui.csproj", "{13825284-2555-4594-B27F-92CE13D31FB3}"
